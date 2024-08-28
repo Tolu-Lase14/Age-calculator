@@ -1,0 +1,28 @@
+ .calc-container{
+    padding-left: 500px;
+    padding-top: 20px;
+ }
+
+
+ body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; */
+}
+
+.timeline{
+    color: red;
+}
+.years{
+    color: blue;
+}
+.months{
+    color: blue;
+}
+.days{
+    color: blue;
+}
